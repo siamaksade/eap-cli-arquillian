@@ -1,0 +1,2 @@
+/subsystem=datasources/data-source=TestDS:add(jndi-name=java:/jboss/datasources/TestDS,connection-url=jdbc:h2:mem:test;DB_CLOSE_DELAY=-1,driver-name=h2)
+
